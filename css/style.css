@@ -11,7 +11,7 @@
 
 @font-face {
   font-family: 'QuickSand';
-  src: url('../font/Quicksand-Regular.ttf');
+  src: url('../../font/Quicksand-Regular.ttf');
 }
 
 body {
@@ -2084,9 +2084,5 @@ footer .credits {
 }
 
 .breadcrumb-item :hover{
-  color: #2e72ca;
-}
-
-.list-inline-item :hover{
   color: #2e72ca;
 }
